@@ -513,10 +513,7 @@ This SQL query logic will basically return all the access times to the data.  St
 
 ## SQL-Logic
 ```SQL
-1
-2
-3
-4	select
+select
      *
 from
      sdivfs_io_stats
